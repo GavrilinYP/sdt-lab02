@@ -10,6 +10,7 @@
      cout << "A + B = " << a + b << '\n';
      cout<<"2A="<<2*a;
      cout<<"A-B"<<a-b;
-     cout<<"A*B"<<a*b;
+  cout<<"A*B"<<a*b;
+     cout<<"A/B"<<a/b;
 
  }
